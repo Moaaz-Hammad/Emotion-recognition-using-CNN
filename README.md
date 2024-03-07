@@ -1,8 +1,8 @@
 # Emotion-recognition-using-CNN
 
 
-Project Description: Facial Expression Recognition System
-This project aims to develop a deep learning model to automatically recognize facial expressions in images. The model will be able to classify human faces into seven different emotional categories: neutral, anger, disgust, fear, happy, sad, and surprise.
+###Project Description: Facial Expression Recognition System
+###This project aims to develop a deep learning model to automatically recognize facial expressions in images. The model will be able to classify human faces into seven different emotional categories: neutral, ###anger, disgust, fear, happy, sad, and surprise.
 
 Project Goals:
 Build a convolutional neural network (CNN) model capable of accurately classifying facial expressions in grayscale images.
